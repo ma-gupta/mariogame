@@ -2,7 +2,7 @@
 
 ## Description
 
-Implements the classic Super Mario video game using Assembly code, playable via an SNES controller
+Implements the classic Super Mario video game using Assembly code, playable via an SNES controller.
 In this game, Mario travels through a map in order to reach the palace to save Princess Peach. 
 On his way Mario will be faced by several monsters and obstacles. 
 The game ends when Mario reaches the castle (win) or all lives are lost (lose).
